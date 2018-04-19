@@ -1,0 +1,13 @@
+/*
+ Theme Name:   WP Bootstrap Starter Child
+ Theme URI:    /var/www/html/wordpress/wp-content/themes/wp-bootstrap-starter-child
+ Description:  WP Bootstrap Starter Child Theme
+ Author:       Lazare Boukenouche
+ Author URI:   http://localhost/wordpress/
+ Template:     wp-bootstrap-starter
+ Version:      1.0.0
+*/
+
+header {
+    background-color:white;
+}
